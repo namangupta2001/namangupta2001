@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman</h1>
-<h3 align="center">1st year undergrad at LNCT&S,pursing my engineering in comp. sc. with the specialization of artificial intelligence.I am a Web developer and a competitive programming enthusiast.</h3>
+<h3 align="center">1st year undergrad at LNCT&S,pursuing my engineering in comp. sc. with the specialization of "AIML",I am a Web developer and a competitive programming enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namangupta2001&label=Profile%20views&color=0e75b6&style=flat" alt="namangupta2001" /> </p>
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/namangupta2001" target="blank"><img align="center" src="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="namangupta2001" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
