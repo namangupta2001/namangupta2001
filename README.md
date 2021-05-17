@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Naman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">1st year undergrad at LNCT&S,pursing my engineering in comp. sc. with the specialization of artificial intelligence.I am a Web developer and a competitive programming enthusiast.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=namangupta2001&label=Profile%20views&color=0e75b6&style=flat" alt="namangupta2001" /> </p>
 
 - 🔭 I’m currently working on **building my portfolio**
 
 - 🌱 I’m currently learning **javascript and python**
 
 - 👯 I’m looking to collaborate on **open source projects**
+
+- 🤝 I’m looking for **internship**
 
 - 👨‍💻 All of my projects are available at [https://github.com/namangupta2001?tab=repositories](https://github.com/namangupta2001?tab=repositories)
 
@@ -15,9 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/namangupta07729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="namangupta07729" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/namangupta2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="namangupta2001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/namangupta2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="namangupta2001" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/namangupta2001" target="blank"><img align="center" src="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="namangupta2001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
