@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Naman</h1>
-<h3 align="center">1st year undergrad at LNCT&S,pursuing my engineering in comp. sc. with the specialization of "AIML",I am a Web developer and a competitive programming enthusiast.</h3>
+<h3 align="center">3rd year undergrad at LNCT&S,pursuing my engineering in comp. sc. with the specialization of "AIML"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namangupta2001&label=Profile%20views&color=0e75b6&style=flat" alt="namangupta2001" /> </p>
 
 - 🔭 I’m currently working on **building my portfolio**
 
-- 🌱 I’m currently learning **javascript and python**
+- 🌱 I’m currently learning **python**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -15,7 +15,6 @@
 
 - 💬 Ask me about **anything**
 
-- ⚡ Fun fact **pursuing engineering**
 
 <p align="left">
 
