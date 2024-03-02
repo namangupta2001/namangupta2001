@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namangupta2001&label=Profile%20views&color=0e75b6&style=flat" alt="namangupta2001" /> </p>
 
-- 🔭 I’m currently working on **building my portfolio**
-
-- 🌱 I’m currently learning **python**
+- 🔭I’m currently learning **machine learning and deep learning concepts**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
