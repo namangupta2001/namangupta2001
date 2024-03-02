@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Naman</h1>
+<h1 align="center">Hi 👋, I'm Naman **Upcoming Scholar'24 @![image](https://github.com/namangupta2001/namangupta2001/assets/75130402/74ad28df-523a-4f9d-9823-893749d2104b)
+**</h1>
 <h3 align="center">Final year undergrad at LNCT&S,pursuing my engineering in comp. sc. with the specialization of "AIML"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namangupta2001&label=Profile%20views&color=0e75b6&style=flat" alt="namangupta2001" /> </p>
@@ -8,8 +9,6 @@
 - 🌱 I’m currently learning **python**
 
 - 👯 I’m looking to collaborate on **open source projects**
-
-- 🤝 I’m looking for **internship**
 
 - 👨‍💻 All of my projects are available at [https://github.com/namangupta2001?tab=repositories](https://github.com/namangupta2001?tab=repositories)
 
@@ -54,6 +53,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=namangupta2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
