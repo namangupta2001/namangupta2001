@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Naman **Upcoming Scholar'24 @![image](https://github.com/namangupta2001/namangupta2001/assets/75130402/74ad28df-523a-4f9d-9823-893749d2104b)
-**</h1>
+<h1 align="center">Hi 👋, I'm Naman **Upcoming Scholar'24 @ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40](https://www.shutterstock.com/image-vector/sap-systemanalyse-und-programmentwicklung-tranlation-system-2308501867" alt="python logo"  />
+  <img width="12" />**</h1>
 <h3 align="center">Final year undergrad at LNCT&S,pursuing my engineering in comp. sc. with the specialization of "AIML"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namangupta2001&label=Profile%20views&color=0e75b6&style=flat" alt="namangupta2001" /> </p>
