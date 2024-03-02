@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naman **Upcoming Scholar'24 @ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40](https://www.shutterstock.com/image-vector/sap-systemanalyse-und-programmentwicklung-tranlation-system-2308501867" alt="python logo"  />
+<h1 align="center">Hi 👋, I'm Naman **Upcoming Scholar'24 @ <img src="https://www.shutterstock.com/image-vector/sap-systemanalyse-und-programmentwicklung-tranlation-system-2308501867" alt="python logo"  />
   <img width="12" />**</h1>
 <h3 align="center">Final year undergrad at LNCT&S,pursuing my engineering in comp. sc. with the specialization of "AIML"</h3>
 
