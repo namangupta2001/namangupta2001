@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman SWE @ SAP**</h1>
-<h3 align="center">Final year undergrad at LNCT&S,pursuing my engineering in comp. sc. with the specialization of "AIML"</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namangupta2001&label=Profile%20views&color=0e75b6&style=flat" alt="namangupta2001" /> </p>
 
