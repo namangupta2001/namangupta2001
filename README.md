@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namangupta2001&label=Profile%20views&color=0e75b6&style=flat" alt="namangupta2001" /> </p>
 
-- 🔭I’m currently learning **machine learning and deep learning concepts**
+- 🔭I’m currently Building Agentic AI scalable systems for enterprises to work efficiently **
 
 - 👯 I’m looking to collaborate on **open source projects**
 
